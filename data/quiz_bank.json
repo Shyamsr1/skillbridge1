@@ -1,0 +1,792 @@
+{
+  "Python": {
+    "basic": [
+      {
+        "question": "What is the output of print(1 + 1)?",
+        "options": [
+          "1",
+          "2",
+          "11",
+          "Error"
+        ],
+        "answer": "2"
+      },
+      {
+        "question": "Which symbol is used for comments in Python?",
+        "options": [
+          "//",
+          "#",
+          "/*",
+          "<!--"
+        ],
+        "answer": "#"
+      },
+      {
+        "question": "What is the correct extension for Python files?",
+        "options": [
+          ".py",
+          ".txt",
+          ".java",
+          ".exe"
+        ],
+        "answer": ".py"
+      },
+      {
+        "question": "What is the result of print(len('abc'))?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "Error"
+        ],
+        "answer": "3"
+      },
+      {
+        "question": "Which data type is used to store text?",
+        "options": [
+          "str",
+          "int",
+          "bool",
+          "float"
+        ],
+        "answer": "str"
+      }
+    ],
+    "intermediate": [
+      {
+        "question": "What is a tuple in Python?",
+        "options": [
+          "Immutable list",
+          "Mutable list",
+          "Loop",
+          "Condition"
+        ],
+        "answer": "Immutable list"
+      },
+      {
+        "question": "What does the 'in' keyword check?",
+        "options": [
+          "Loop existence",
+          "Value membership",
+          "Syntax",
+          "Range"
+        ],
+        "answer": "Value membership"
+      },
+      {
+        "question": "What does `range(5)` return?",
+        "options": [
+          "[0,1,2,3,4]",
+          "[1,2,3,4,5]",
+          "[0-5]",
+          "None"
+        ],
+        "answer": "[0,1,2,3,4]"
+      },
+      {
+        "question": "Which method is used to add an item to a list?",
+        "options": [
+          "append()",
+          "add()",
+          "push()",
+          "insert()"
+        ],
+        "answer": "append()"
+      },
+      {
+        "question": "Which of the following is a dictionary?",
+        "options": [
+          "{'a': 1}",
+          "[1,2,3]",
+          "(1,2)",
+          "{1,2,3}"
+        ],
+        "answer": "{'a': 1}"
+      }
+    ],
+    "advanced": [
+      {
+        "question": "What is a Python decorator?",
+        "options": [
+          "A design pattern",
+          "A function modifying another",
+          "A module",
+          "An exception"
+        ],
+        "answer": "A function modifying another"
+      },
+      {
+        "question": "Which library is used for data analysis?",
+        "options": [
+          "Pandas",
+          "Flask",
+          "Tkinter",
+          "NumPy"
+        ],
+        "answer": "Pandas"
+      },
+      {
+        "question": "What is the time complexity of accessing a value in a dictionary?",
+        "options": [
+          "O(1)",
+          "O(n)",
+          "O(log n)",
+          "O(n^2)"
+        ],
+        "answer": "O(1)"
+      },
+      {
+        "question": "What does the 'yield' keyword do?",
+        "options": [
+          "Returns a generator",
+          "Stops a loop",
+          "Imports a package",
+          "Throws error"
+        ],
+        "answer": "Returns a generator"
+      },
+      {
+        "question": "What is list comprehension?",
+        "options": [
+          "Way to create lists",
+          "Debugging tool",
+          "Import method",
+          "Variable"
+        ],
+        "answer": "Way to create lists"
+      }
+    ]
+  },
+  "SQL": {
+    "basic": [
+      {
+        "question": "What command is used to retrieve data in SQL?",
+        "options": [
+          "SELECT",
+          "GET",
+          "PULL",
+          "SHOW"
+        ],
+        "answer": "SELECT"
+      },
+      {
+        "question": "What clause is used to filter rows?",
+        "options": [
+          "WHERE",
+          "FILTER",
+          "ORDER",
+          "GROUP"
+        ],
+        "answer": "WHERE"
+      },
+      {
+        "question": "Which keyword sorts the result set?",
+        "options": [
+          "ORDER BY",
+          "SORT BY",
+          "GROUP BY",
+          "ALIGN BY"
+        ],
+        "answer": "ORDER BY"
+      },
+      {
+        "question": "What SQL keyword removes a table?",
+        "options": [
+          "DROP",
+          "DELETE",
+          "REMOVE",
+          "TRUNCATE"
+        ],
+        "answer": "DROP"
+      },
+      {
+        "question": "Which clause groups rows sharing a property?",
+        "options": [
+          "GROUP BY",
+          "COLLATE",
+          "ORDER BY",
+          "SET"
+        ],
+        "answer": "GROUP BY"
+      }
+    ],
+    "intermediate": [
+      {
+        "question": "What does INNER JOIN do?",
+        "options": [
+          "Matches rows in both tables",
+          "Matches any row",
+          "Combines all rows",
+          "Deletes records"
+        ],
+        "answer": "Matches rows in both tables"
+      },
+      {
+        "question": "What is a foreign key?",
+        "options": [
+          "Link to primary key in another table",
+          "Duplicate column",
+          "Unique row",
+          "None"
+        ],
+        "answer": "Link to primary key in another table"
+      },
+      {
+        "question": "Which SQL function returns the number of rows?",
+        "options": [
+          "COUNT()",
+          "SUM()",
+          "TOTAL()",
+          "ROWS()"
+        ],
+        "answer": "COUNT()"
+      },
+      {
+        "question": "Which statement updates data in SQL?",
+        "options": [
+          "UPDATE",
+          "MODIFY",
+          "SET",
+          "CHANGE"
+        ],
+        "answer": "UPDATE"
+      },
+      {
+        "question": "What does DISTINCT do in a SELECT?",
+        "options": [
+          "Removes duplicates",
+          "Sorts rows",
+          "Groups rows",
+          "Counts rows"
+        ],
+        "answer": "Removes duplicates"
+      }
+    ],
+    "advanced": [
+      {
+        "question": "What is a stored procedure?",
+        "options": [
+          "Precompiled SQL block",
+          "Trigger",
+          "View",
+          "Constraint"
+        ],
+        "answer": "Precompiled SQL block"
+      },
+      {
+        "question": "What is normalization?",
+        "options": [
+          "Process to reduce redundancy",
+          "SQL formatting",
+          "Data encryption",
+          "Error handling"
+        ],
+        "answer": "Process to reduce redundancy"
+      },
+      {
+        "question": "What is a trigger?",
+        "options": [
+          "Auto-executed procedure",
+          "SQL comment",
+          "Data input",
+          "None"
+        ],
+        "answer": "Auto-executed procedure"
+      },
+      {
+        "question": "Which JOIN includes unmatched rows from the left?",
+        "options": [
+          "LEFT JOIN",
+          "INNER JOIN",
+          "RIGHT JOIN",
+          "CROSS JOIN"
+        ],
+        "answer": "LEFT JOIN"
+      },
+      {
+        "question": "What is the result of UNION?",
+        "options": [
+          "Combines rows and removes duplicates",
+          "Only common rows",
+          "Nested rows",
+          "None"
+        ],
+        "answer": "Combines rows and removes duplicates"
+      }
+    ]
+  },
+  "Machine Learning": {
+    "basic": [
+      {
+        "question": "Which library is commonly used for ML in Python?",
+        "options": [
+          "scikit-learn",
+          "matplotlib",
+          "tkinter",
+          "django"
+        ],
+        "answer": "scikit-learn"
+      },
+      {
+        "question": "What is supervised learning?",
+        "options": [
+          "Learning from labeled data",
+          "Learning from images",
+          "Unlabeled learning",
+          "None"
+        ],
+        "answer": "Learning from labeled data"
+      },
+      {
+        "question": "Which algorithm is used for classification?",
+        "options": [
+          "Logistic Regression",
+          "K-Means",
+          "PCA",
+          "SVD"
+        ],
+        "answer": "Logistic Regression"
+      },
+      {
+        "question": "Which metric is used for classification accuracy?",
+        "options": [
+          "Accuracy",
+          "MSE",
+          "RMSE",
+          "SSE"
+        ],
+        "answer": "Accuracy"
+      },
+      {
+        "question": "Which algorithm is unsupervised?",
+        "options": [
+          "K-Means",
+          "Decision Tree",
+          "SVM",
+          "Linear Regression"
+        ],
+        "answer": "K-Means"
+      }
+    ],
+    "intermediate": [
+      {
+        "question": "What is overfitting?",
+        "options": [
+          "Model performs well on train but poor on test",
+          "Undertraining",
+          "Good generalization",
+          "None"
+        ],
+        "answer": "Model performs well on train but poor on test"
+      },
+      {
+        "question": "Which ML model works well for text data?",
+        "options": [
+          "Naive Bayes",
+          "Linear Regression",
+          "KNN",
+          "Decision Trees"
+        ],
+        "answer": "Naive Bayes"
+      },
+      {
+        "question": "Which technique reduces feature dimensions?",
+        "options": [
+          "PCA",
+          "CNN",
+          "NLP",
+          "RNN"
+        ],
+        "answer": "PCA"
+      },
+      {
+        "question": "Which of the following is a regression metric?",
+        "options": [
+          "RMSE",
+          "Recall",
+          "F1 Score",
+          "Precision"
+        ],
+        "answer": "RMSE"
+      },
+      {
+        "question": "What is the purpose of cross-validation?",
+        "options": [
+          "Evaluate model robustness",
+          "Visualize data",
+          "Reduce overfitting",
+          "Train faster"
+        ],
+        "answer": "Evaluate model robustness"
+      }
+    ],
+    "advanced": [
+      {
+        "question": "What is the role of learning rate in gradient descent?",
+        "options": [
+          "Controls step size",
+          "Controls accuracy",
+          "Controls batch size",
+          "None"
+        ],
+        "answer": "Controls step size"
+      },
+      {
+        "question": "What is a confusion matrix used for?",
+        "options": [
+          "Evaluating classification performance",
+          "Visualizing features",
+          "Improving memory",
+          "None"
+        ],
+        "answer": "Evaluating classification performance"
+      },
+      {
+        "question": "Which activation function is used in deep networks?",
+        "options": [
+          "ReLU",
+          "Linear",
+          "Sigmoid only",
+          "Constant"
+        ],
+        "answer": "ReLU"
+      },
+      {
+        "question": "What is transfer learning?",
+        "options": [
+          "Using pretrained models for new tasks",
+          "Training from scratch",
+          "Data compression",
+          "None"
+        ],
+        "answer": "Using pretrained models for new tasks"
+      },
+      {
+        "question": "Which algorithm uses backpropagation?",
+        "options": [
+          "Neural Networks",
+          "KNN",
+          "Naive Bayes",
+          "SVM"
+        ],
+        "answer": "Neural Networks"
+      }
+    ]
+  },
+  "Power BI": {
+    "basic": [
+      {
+        "question": "What is Power BI used for?",
+        "options": [
+          "Data visualization",
+          "Web development",
+          "Text editing",
+          "Gaming"
+        ],
+        "answer": "Data visualization"
+      },
+      {
+        "question": "Which language is used in Power BI for calculations?",
+        "options": [
+          "DAX",
+          "M",
+          "SQL",
+          "Python"
+        ],
+        "answer": "DAX"
+      },
+      {
+        "question": "Which component allows creating dashboards?",
+        "options": [
+          "Power BI Service",
+          "Power Query",
+          "Power View",
+          "Power Map"
+        ],
+        "answer": "Power BI Service"
+      },
+      {
+        "question": "Which format is used to import Excel data?",
+        "options": [
+          ".xlsx",
+          ".docx",
+          ".csv",
+          ".json"
+        ],
+        "answer": ".xlsx"
+      },
+      {
+        "question": "What is Power Query?",
+        "options": [
+          "ETL tool in Power BI",
+          "SQL editor",
+          "AI feature",
+          "Connector"
+        ],
+        "answer": "ETL tool in Power BI"
+      }
+    ],
+    "intermediate": [
+      {
+        "question": "Which function calculates year-over-year growth?",
+        "options": [
+          "SAMEPERIODLASTYEAR()",
+          "CALCULATE()",
+          "NOW()",
+          "TODAY()"
+        ],
+        "answer": "SAMEPERIODLASTYEAR()"
+      },
+      {
+        "question": "What is a measure in Power BI?",
+        "options": [
+          "Calculated value",
+          "Chart",
+          "Filter",
+          "Table"
+        ],
+        "answer": "Calculated value"
+      },
+      {
+        "question": "What is a slicer?",
+        "options": [
+          "Filter visual",
+          "Chart",
+          "Data type",
+          "Query"
+        ],
+        "answer": "Filter visual"
+      },
+      {
+        "question": "What is drill-through in Power BI?",
+        "options": [
+          "Navigating detailed report",
+          "Zoom in",
+          "Undo",
+          "Export data"
+        ],
+        "answer": "Navigating detailed report"
+      },
+      {
+        "question": "Which view is used to model relationships?",
+        "options": [
+          "Model View",
+          "Data View",
+          "Report View",
+          "Table View"
+        ],
+        "answer": "Model View"
+      }
+    ],
+    "advanced": [
+      {
+        "question": "What is DAX?",
+        "options": [
+          "Data Analysis Expressions",
+          "Database XML",
+          "Data Alert X",
+          "Dashboard Aggregate X"
+        ],
+        "answer": "Data Analysis Expressions"
+      },
+      {
+        "question": "Which function filters a table based on condition?",
+        "options": [
+          "FILTER()",
+          "CALCULATE()",
+          "REMOVEFILTERS()",
+          "SELECT()"
+        ],
+        "answer": "FILTER()"
+      },
+      {
+        "question": "How are relationships defined in Power BI?",
+        "options": [
+          "Using keys",
+          "Using charts",
+          "Using colors",
+          "Using names"
+        ],
+        "answer": "Using keys"
+      },
+      {
+        "question": "What is the purpose of CALCULATE()?",
+        "options": [
+          "Change context for calculation",
+          "Sort table",
+          "Join tables",
+          "Filter table"
+        ],
+        "answer": "Change context for calculation"
+      },
+      {
+        "question": "What is row-level security?",
+        "options": [
+          "Data access restriction per user",
+          "Data sorting",
+          "Exporting data",
+          "Table joins"
+        ],
+        "answer": "Data access restriction per user"
+      }
+    ]
+  },
+  "Deep Learning": {
+    "basic": [
+      {
+        "question": "What does a neural network consist of?",
+        "options": [
+          "Neurons",
+          "Trees",
+          "Tables",
+          "Loops"
+        ],
+        "answer": "Neurons"
+      },
+      {
+        "question": "Which library is commonly used for Deep Learning?",
+        "options": [
+          "TensorFlow",
+          "matplotlib",
+          "scikit-learn",
+          "Seaborn"
+        ],
+        "answer": "TensorFlow"
+      },
+      {
+        "question": "What is an epoch in Deep Learning?",
+        "options": [
+          "One pass over the dataset",
+          "A layer",
+          "A loss function",
+          "A neuron"
+        ],
+        "answer": "One pass over the dataset"
+      },
+      {
+        "question": "What does ReLU stand for?",
+        "options": [
+          "Rectified Linear Unit",
+          "Regular Linear Update",
+          "Recursive Learning Unit",
+          "Random Loss Unit"
+        ],
+        "answer": "Rectified Linear Unit"
+      },
+      {
+        "question": "Which layer type is used for image recognition?",
+        "options": [
+          "Convolutional",
+          "Dense",
+          "Dropout",
+          "RNN"
+        ],
+        "answer": "Convolutional"
+      }
+    ],
+    "intermediate": [
+      {
+        "question": "What is dropout used for in deep learning?",
+        "options": [
+          "Prevent overfitting",
+          "Increase accuracy",
+          "Train faster",
+          "Optimize weights"
+        ],
+        "answer": "Prevent overfitting"
+      },
+      {
+        "question": "Which activation function is commonly used in hidden layers?",
+        "options": [
+          "ReLU",
+          "Sigmoid",
+          "Softmax",
+          "Step"
+        ],
+        "answer": "ReLU"
+      },
+      {
+        "question": "What is backpropagation?",
+        "options": [
+          "Error propagation for weight updates",
+          "Layer removal",
+          "Optimizer",
+          "Activation"
+        ],
+        "answer": "Error propagation for weight updates"
+      },
+      {
+        "question": "Which optimizer adapts the learning rate?",
+        "options": [
+          "Adam",
+          "SGD",
+          "Momentum",
+          "BatchNorm"
+        ],
+        "answer": "Adam"
+      },
+      {
+        "question": "What is the function of a loss function?",
+        "options": [
+          "Measures prediction error",
+          "Builds model layers",
+          "Generates input data",
+          "Reduces neurons"
+        ],
+        "answer": "Measures prediction error"
+      }
+    ],
+    "advanced": [
+      {
+        "question": "What is a vanishing gradient problem?",
+        "options": [
+          "Gradients become too small to update weights",
+          "Gradients explode",
+          "No error found",
+          "Overfitting occurs"
+        ],
+        "answer": "Gradients become too small to update weights"
+      },
+      {
+        "question": "Which technique is used in Transfer Learning?",
+        "options": [
+          "Using pretrained models",
+          "Backpropagation only",
+          "Dropout",
+          "Gradient clipping"
+        ],
+        "answer": "Using pretrained models"
+      },
+      {
+        "question": "Which architecture is used for sequential data?",
+        "options": [
+          "RNN",
+          "CNN",
+          "GAN",
+          "DBN"
+        ],
+        "answer": "RNN"
+      },
+      {
+        "question": "What is a GAN used for?",
+        "options": [
+          "Generating new data",
+          "Classifying data",
+          "Summarizing text",
+          "Detecting objects"
+        ],
+        "answer": "Generating new data"
+      },
+      {
+        "question": "What is the role of batch normalization?",
+        "options": [
+          "Stabilizes and speeds up training",
+          "Adds noise to input",
+          "Reduces dataset size",
+          "Increases bias"
+        ],
+        "answer": "Stabilizes and speeds up training"
+      }
+    ]
+  }
+}

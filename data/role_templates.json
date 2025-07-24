@@ -1,0 +1,33 @@
+{
+  "Data Scientist": {
+    "skills": {
+      "Python": 5,
+      "SQL": 4,
+      "Pandas": 4,
+      "Scikit-learn": 4,
+      "Machine Learning": 5,
+      "Deep Learning": 4,
+      "Power BI": 3
+    }
+  },
+  "AI Engineer": {
+    "skills": {
+      "TensorFlow": 5,
+      "Keras": 4,
+      "PyTorch": 4,
+      "NLP": 3,
+      "Computer Vision": 4,
+      "Python": 4
+    }
+  },
+  "Data Analyst": {
+    "skills": {
+      "Excel": 5,
+      "Power BI": 4,
+      "SQL": 4,
+      "Data Visualization": 4,
+      "Statistics": 4,
+      "Python": 3
+    }
+  }
+}

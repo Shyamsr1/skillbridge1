@@ -1,0 +1,485 @@
+{
+    "roles": {
+        "Data Scientist": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Matplotlib",
+            "Seaborn",
+            "Scikit-learn",
+            "Machine Learning",
+            "Deep Learning",
+            "EDA",
+            "Statistics",
+            "Hypothesis Testing",
+            "Power BI",
+            "Tableau",
+            "Data Cleaning",
+            "Feature Engineering",
+            "Model Selection",
+            "Model Evaluation",
+            "Cross Validation",
+            "Git",
+            "Jupyter Notebooks"
+        ],
+        "AI Engineer": [
+            "Python",
+            "TensorFlow",
+            "Keras",
+            "PyTorch",
+            "Transformers",
+            "Hugging Face",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Speech Recognition",
+            "CNN",
+            "RNN",
+            "Transfer Learning",
+            "Model Deployment",
+            "Docker",
+            "FastAPI",
+            "Flask",
+            "MLOps",
+            "Git",
+            "APIs",
+            "AWS",
+            "GCP"
+        ],
+        "Machine Learning Engineer": [
+            "Python",
+            "Scikit-learn",
+            "XGBoost",
+            "LightGBM",
+            "CatBoost",
+            "Model Tuning",
+            "Feature Engineering",
+            "Cross Validation",
+            "Pandas",
+            "NumPy",
+            "Hyperparameter Tuning",
+            "Optuna",
+            "Model Evaluation",
+            "ML Pipelines",
+            "Data Preprocessing",
+            "CI/CD",
+            "GitHub",
+            "Docker",
+            "Airflow"
+        ],
+        "Deep Learning Engineer": [
+            "Deep Learning",
+            "PyTorch",
+            "TensorFlow",
+            "Keras",
+            "CNN",
+            "RNN",
+            "Transformers",
+            "Attention Mechanism",
+            "Sequence Models",
+            "Hugging Face",
+            "GPU Training",
+            "Transfer Learning",
+            "Autoencoders",
+            "GANs",
+            "Model Optimization",
+            "Distributed Training",
+            "NLP",
+            "Computer Vision"
+        ],
+        "Data Analyst": [
+            "Excel",
+            "Power BI",
+            "Tableau",
+            "SQL",
+            "Python",
+            "Statistics",
+            "Data Visualization",
+            "Data Cleaning",
+            "Business Intelligence",
+            "Storytelling",
+            "Presentation",
+            "Communication",
+            "Google Sheets",
+            "Dashboards",
+            "Data Analysis"
+        ],
+        "Business Analyst": [
+            "Excel",
+            "Power BI",
+            "SQL",
+            "Business Analysis",
+            "Data Interpretation",
+            "Critical Thinking",
+            "Presentation",
+            "JIRA",
+            "Agile Methodology",
+            "Storytelling",
+            "Problem Solving",
+            "Stakeholder Management"
+        ],
+        "NLP Engineer": [
+            "Python",
+            "Transformers",
+            "SpaCy",
+            "NLTK",
+            "Hugging Face",
+            "BERT",
+            "GPT",
+            "Text Classification",
+            "NER",
+            "Sentiment Analysis",
+            "Tokenization",
+            "Vectorization",
+            "RNN",
+            "Seq2Seq",
+            "FastText"
+        ],
+        "Computer Vision Engineer": [
+            "OpenCV",
+            "PyTorch",
+            "TensorFlow",
+            "CNN",
+            "YOLO",
+            "Object Detection",
+            "Image Classification",
+            "Segmentation",
+            "Augmentation",
+            "Face Recognition",
+            "Model Deployment",
+            "Real-time Inference"
+        ]
+    },
+    "skills": {
+        "Python": {
+            "alias": [
+                "py"
+            ],
+            "weight": 2
+        },
+        "SQL": {
+            "alias": [],
+            "weight": 2
+        },
+        "Pandas": {
+            "alias": [],
+            "weight": 2
+        },
+        "NumPy": {
+            "alias": [
+                "numpy"
+            ],
+            "weight": 2
+        },
+        "Scikit-learn": {
+            "alias": [
+                "sklearn"
+            ],
+            "weight": 2
+        },
+        "Power BI": {
+            "alias": [
+                "powerbi"
+            ],
+            "weight": 2
+        },
+        "Deep Learning": {
+            "alias": [
+                "deep networks",
+                "DL",
+                "deep neural network",
+                "Deep Neural Networks",
+                "Neural Net"
+            ],
+            "weight": 3
+        },
+        "Machine Learning": {
+            "alias": [
+                "ML"
+            ],
+            "weight": 3
+        },
+        "TensorFlow": {
+            "alias": [],
+            "weight": 2
+        },
+        "Keras": {
+            "alias": [
+                "keras api",
+                "tf.keras"
+            ],
+            "weight": 2
+        },
+        "PyTorch": {
+            "alias": [
+                "pytorch lightning",
+                "torch"
+            ],
+            "weight": 2
+        },
+        "EDA": {
+            "alias": [
+                "eda process",
+                "exploratory data analysis",
+                "data exploration",
+                "Exploratory Data Analysis"
+            ],
+            "weight": 1
+        },
+        "Statistics": {
+            "alias": [],
+            "weight": 2
+        },
+        "Hypothesis Testing": {
+            "alias": [],
+            "weight": 1
+        },
+        "Tableau": {
+            "alias": [],
+            "weight": 2
+        },
+        "Data Cleaning": {
+            "alias": [
+                "missing value treatment",
+                "cleaned data",
+                "null handling"
+            ],
+            "weight": 1
+        },
+        "Feature Engineering": {
+            "alias": [
+                "feature selection",
+                "feature creation",
+                "data transformation"
+            ],
+            "weight": 2
+        },
+        "Model Selection": {
+            "alias": [
+                "Model Choosing",
+                "Choosing ML Model",
+                "Model Selector"
+            ],
+            "weight": 2
+        },
+        "Model Evaluation": {
+            "alias": [
+                "ML Evaluation",
+                "Model Assessment",
+                "Evaluate Model"
+            ],
+            "weight": 2
+        },
+        "Cross Validation": {
+            "alias": [],
+            "weight": 2
+        },
+        "Git": {
+            "alias": [],
+            "weight": 1
+        },
+        "Jupyter Notebooks": {
+            "alias": [],
+            "weight": 1
+        },
+        "Transformers": {
+            "alias": [],
+            "weight": 2
+        },
+        "NLP": {
+            "alias": [
+                "Natural Language Processing"
+            ],
+            "weight": 2
+        },
+        "CNN": {
+            "alias": [
+                "convolutional neural network",
+                "Convolutional Neural Networks",
+                "conv net"
+            ],
+            "weight": 2
+        },
+        "RNN": {
+            "alias": [
+                "Recurrent Neural Networks"
+            ],
+            "weight": 2
+        },
+        "Docker": {
+            "alias": [],
+            "weight": 2
+        },
+        "FastAPI": {
+            "alias": [
+                "fast api",
+                "fastapi app"
+            ],
+            "weight": 1
+        },
+        "Flask": {
+            "alias": [],
+            "weight": 1
+        },
+        "MLOps": {
+            "alias": [
+                "productionize",
+                "model registry",
+                "ci/cd",
+                "mlops pipeline"
+            ],
+            "weight": 2
+        },
+        "APIs": {
+            "alias": [],
+            "weight": 1
+        },
+        "AWS": {
+            "alias": [],
+            "weight": 2
+        },
+        "GCP": {
+            "alias": [],
+            "weight": 2
+        },
+        "XGBoost": {
+            "alias": [],
+            "weight": 2
+        },
+        "LightGBM": {
+            "alias": [],
+            "weight": 2
+        },
+        "CatBoost": {
+            "alias": [],
+            "weight": 2
+        },
+        "Model Tuning": {
+            "alias": [],
+            "weight": 2
+        },
+        "Hyperparameter Tuning": {
+            "alias": [
+                "Tuning",
+                "random search",
+                "grid search",
+                "Parameter Optimization",
+                "parameter tuning",
+                "HPO",
+                "parameter search"
+            ],
+            "weight": 2
+        },
+        "Optuna": {
+            "alias": [],
+            "weight": 2
+        },
+        "ML Pipelines": {
+            "alias": [],
+            "weight": 2
+        },
+        "CI/CD": {
+            "alias": [],
+            "weight": 2
+        },
+        "GitHub": {
+            "alias": [],
+            "weight": 2
+        },
+        "Airflow": {
+            "alias": [],
+            "weight": 2
+        },
+        "Attention Mechanism": {
+            "alias": [
+                "transformer block",
+                "self-attention"
+            ],
+            "weight": 2
+        },
+        "Sequence Models": {
+            "alias": [],
+            "weight": 2
+        },
+        "Autoencoders": {
+            "alias": [
+                "autoencoder",
+                "encoding layer",
+                "decoder"
+            ],
+            "weight": 2
+        },
+        "GANs": {
+            "alias": [
+                "Generative Adversarial Networks",
+                "discriminator",
+                "gan",
+                "generator",
+                "generative adversarial network"
+            ],
+            "weight": 2
+        },
+        "Distributed Training": {
+            "alias": [],
+            "weight": 2
+        },
+        "OpenCV": {
+            "alias": [],
+            "weight": 2
+        },
+        "YOLO": {
+            "alias": [
+                "You Only Look Once"
+            ],
+            "weight": 2
+        },
+        "Face Recognition": {
+            "alias": [],
+            "weight": 2
+        },
+        "Image Classification": {
+            "alias": [],
+            "weight": 2
+        },
+        "Model Deployment": {
+            "alias": [
+                "FastAPI",
+                "Flask",
+                "deploy",
+                "production",
+                "docker"
+            ],
+            "weight": 2
+        },
+        "Machine Learning Pipeline": {
+            "alias": [
+                "ML Pipeline",
+                "ML Pipelines",
+                "Machine Learning Pipelines",
+                "Pipeline Building"
+            ],
+            "weight": 1
+        }
+    },
+    "role_aliases": {
+        "ds": "Data Scientist",
+        "data sci": "Data Scientist",
+        "data science expert": "Data Scientist",
+        "ml engineer": "Machine Learning Engineer",
+        "machine learning engg": "Machine Learning Engineer",
+        "ml specialist": "Machine Learning Engineer",
+        "ai dev": "AI Engineer",
+        "ai specialist": "AI Engineer",
+        "ai researcher": "AI Engineer",
+        "deep learning engineer": "Deep Learning Engineer",
+        "dl engineer": "Deep Learning Engineer",
+        "data analyst": "Data Analyst",
+        "da": "Data Analyst",
+        "bi analyst": "Business Analyst",
+        "business intelligence analyst": "Business Analyst",
+        "nlp engineer": "NLP Engineer",
+        "nlp specialist": "NLP Engineer",
+        "cv engineer": "Computer Vision Engineer",
+        "computer vision dev": "Computer Vision Engineer"
+    }
+}
